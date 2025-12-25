@@ -13,7 +13,7 @@
 
 ![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=springboot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white)
 ![CSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss)
 ![HTML5](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
@@ -33,7 +33,7 @@
 <!-- wi*quL3fcV -->
 
 ```javascript
-// Which came first: the chicken or the egg?
+// Who came first: the chicken or the egg?
 console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
